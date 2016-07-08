@@ -1,0 +1,14 @@
+layout_spectrum: 0.71781738800928
+typography_spectrum: 0.03426287695765495
+color:
+  brandStrength: 0.8328391502145678
+  lightness: 0.83888557436876
+  saturation: 0.2796210730448365
+  rhythmicContrast: 0.7308847529347986
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: decodefy
