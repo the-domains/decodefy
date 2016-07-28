@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-07-28T00:48:09.546Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/617d0259-dd24-42b9-8e53-94351d4bd1bd.jpg
+datePublished: '2016-07-28T00:59:35.676Z'
 author: []
 via: {}
-dateModified: '2016-07-28T00:48:07.804Z'
+dateModified: '2016-07-28T00:59:35.191Z'
 title: ''
 publisher: {}
 description: >-
   All The Customers You'll Ever Need Are On Facebook, Twitter And LinkedIn. Use
   SocialFlowe For 30 Days And Become A Seasoned Social Media Pro
-starred: false
 sourcePath: _posts/2016-07-28-all-the-customers-youll-ever-need-are-on-facebook-twitter.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: all-the-customers-youll-ever-need-are-on-facebook-twitter/index.html
 _type: MediaObject
 
 ---
