@@ -1,20 +1,24 @@
-typography_spectrum: 0.5929829541128129
+typography_spectrum: 0.03426287695765495
 color:
-  brandStrength: 0.29677100223489106
-  lightness: 0.8935789039824158
-  saturation: 0.1477784258313477
-  rhythmicContrast: 0.4688595924526453
+  brandStrength: 0.8328391502145678
+  lightness: 0.83888557436876
+  saturation: 0.2796210730448365
+  rhythmicContrast: 0.7308847529347986
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.055213181069120765
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.71781738800928
 author:
   name: Jon Young
   email: jonyoung8020@gmail.com
   url: 'http://www.flowemedia.com'
 name: TRYGGR
+navigation:
+  - id: aebc5470-a3f1-4d8f-91cd-6619bccb1b8d
+    name: Test this link
+    type: content
 title: TRYGGR
 description: 'trusty, faithful, true'
