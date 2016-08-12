@@ -17,8 +17,8 @@ author:
   url: 'http://www.flowemedia.com'
 name: TRYGGR
 navigation:
-  - id: aebc5470-a3f1-4d8f-91cd-6619bccb1b8d
-    name: Test this link
+  - name: Test this link
+    id: aebc5470-a3f1-4d8f-91cd-6619bccb1b8d
     type: content
 title: TRYGGR
-description: 'trusty, faithful, true'
+description: 'trust, faithful, true'
