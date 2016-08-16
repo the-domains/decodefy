@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Review App]]></title>
+        <description><![CDATA[The Review App]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 15:01:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Pep Talk from Kid President to You]]></title>
+            <description><![CDATA[<article><h1>A Pep Talk from Kid President to You</h1><p>We all need a little encouragement every now and then. Kid President, knowing this, has put together a video you can play each morning as you wake up or to share with your friend who needs a kick in the right direction. Take a moment and spread some encouragement.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=l-gQLqv9f4o</link>
+            <guid isPermaLink="false">0511692e-74f1-403c-82da-b6593112522a</guid>
+            <pubDate>Tue, 16 Aug 2016 15:00:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
