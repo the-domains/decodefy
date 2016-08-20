@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-20T11:56:56.118Z'
+datePublished: '2016-08-20T12:09:05.222Z'
 sourcePath: _posts/2016-08-20-how-to-stop-wasting-time.md
 author: []
 via: {}
-dateModified: '2016-08-20T11:56:55.620Z'
-title: Truth telling…
+dateModified: '2016-08-20T12:09:04.714Z'
+title: 'I think there’s only one choice in life you have to make… '
 publisher: {}
-description: I think there’s only one choice in life you have to make first…
+description: Decide now if you want to live life with integrity or not.
 starred: false
 inFeed: true
 hasPage: false
@@ -16,10 +16,8 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5546011-8827-4547-8675-fff9e0a9729e.jpg)
 
-# Truth telling...
+# I think there's only one choice in life you have to make... 
 
-I think there's only one choice in life you have to make first...
+Decide now if you want to live life with integrity or not.
 
-> Decide now if you want to live life with integrity or not.
-
-So be picky and strive for excellence in everything you do and everyone you associate with.
+Based on your choice above it's easy to know if your decisions are right or wrong.
