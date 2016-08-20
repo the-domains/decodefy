@@ -1,4 +1,3 @@
-layout_spectrum: 0.6785134989768267
 typography_spectrum: 0.5147983990609646
 color:
   brandStrength: 0.661108962027356
@@ -11,6 +10,7 @@ color:
     - '#FFC269'
     - '#B1BEC8'
     - '#8FA2AF'
+layout_spectrum: 0.6785134989768267
 author:
   name: Tryggr.io
   email: jonyoung8020@gmail.com
@@ -20,5 +20,5 @@ navigation:
   - name: Test this link
     id: aebc5470-a3f1-4d8f-91cd-6619bccb1b8d
     type: content
-title: Tryggr Reviews
+title: Tryggr
 description: 'trust, faithful, true'
