@@ -1,20 +1,18 @@
 ---
-description: ''
-dateModified: '2016-08-20T13:18:07.140Z'
-datePublished: '2016-08-20T13:19:06.537Z'
-title: >-
-  As The Prospects Eyes Glazed Over, Joe's Folder Dropped On The Floor And The
-  Contents Spilled Out...
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-20T13:30:36.857Z'
 sourcePath: >-
   _posts/2016-08-20-as-the-prospects-eyes-glazed-over-joes-folder-dropped-on-t.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-20T13:30:36.315Z'
+title: >-
+  As The Prospects Eyes Glazed Over, Joe's Folder Dropped On The Floor And The
+  Contents Spilled Out...
+publisher: {}
+description: ''
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf06f92e-a497-4be1-92ba-3700b2c605b8.jpg)
