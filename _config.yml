@@ -1,16 +1,16 @@
-typography_spectrum: 0.03426287695765495
+layout_spectrum: 0.6785134989768267
+typography_spectrum: 0.5147983990609646
 color:
-  brandStrength: 0.8328391502145678
-  lightness: 0.83888557436876
-  saturation: 0.2796210730448365
-  rhythmicContrast: 0.7308847529347986
+  brandStrength: 0.661108962027356
+  lightness: 0.8160023915115744
+  saturation: 0.5584372808225453
+  rhythmicContrast: 0.6435351148247719
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
     - '#FFFFFF'
-    - '#F26101'
-layout_spectrum: 0.71781738800928
+    - '#4D6B83'
+    - '#FFC269'
+    - '#B1BEC8'
+    - '#8FA2AF'
 author:
   name: Tryggr.io
   email: jonyoung8020@gmail.com
