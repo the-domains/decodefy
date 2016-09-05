@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Review App]]></title>
-        <description><![CDATA[The Review App]]></description>
+        <title><![CDATA[Tryggr Blog]]></title>
+        <description><![CDATA[Tryggr Blog]]></description>
         <link>http://blog.tryggr.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 15:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 01:56:30 GMT</lastBuildDate>
         <atom:link href="http://blog.tryggr.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[As The Prospects Eyes Glazed Over, Joe's Folder Dropped On The Floor And The Contents Spilled Out...]]></title>
+            <description><![CDATA[<article><h1>As The Prospects Eyes Glazed Over, Joe's Folder Dropped On The Floor And The Contents Spilled Out...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf06f92e-a497-4be1-92ba-3700b2c605b8.jpg"></article>]]></description>
+            <link>http://blog.tryggr.io/as-the-prospects-eyes-glazed-over-joes-folder-dropped-on-t/index.html</link>
+            <guid isPermaLink="false">3330463a-3a95-4b1d-b11d-f981d9c2a426</guid>
+            <pubDate>Fri, 02 Sep 2016 01:55:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Negative Reviews: The Keys to Engagement | G2 Crowd]]></title>
-            <description><![CDATA[<article><h1>Negative Reviews: The Keys to Engagement | G2 Crowd</h1><p>This may be shocking, so get ready. Fact: not all of your customers are happy with their purchase. And the people considering purchasing your product probably know what your product is good at and not so good at. Research shows that reviews play a key role in a buyer's selection process.</p><img src="https://d2eyrv63e6x6lp.cloudfront.net/wp-content/uploads/2016/07/26142711/negreviews.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Negative Reviews: The Keys to Engagement | G2 Crowd</h1><p>This may be shocking, so get ready. Fact: not all of your customers are happy with their purchase. And the people considering purchasing your product probably know what your product is good at and not so good at. Research shows that reviews play a key role in a buyer's selection process.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/184d98c6970a1dcef0ce34abfd95ff7b/noop.jpg?input=https%3A%2F%2Fd2eyrv63e6x6lp.cloudfront.net%2Fwp-content%2Fuploads%2F2016%2F07%2F26142711%2Fnegreviews.jpg"></article>]]></description>
             <link>http://www.g2crowd.com/blog/marketing/marketing-negative-reviews-keys-engagement/</link>
             <guid isPermaLink="false">77e91311-986c-4090-bbe3-8ecd10072106</guid>
             <pubDate>Tue, 16 Aug 2016 15:54:23 GMT</pubDate>
